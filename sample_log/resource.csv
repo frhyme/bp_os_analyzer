@@ -1,0 +1,10 @@
+id,h_position,d_id,manager_id
+r0,1,management,
+r01,2,strategy,r0
+r02,2,production,r0
+r011,3,strategy,r01
+r012,3,strategy,r01
+r021,3,production,r02
+r022,3,production,r02
+r0211,4,production,r021
+r0212,4,production,r021
